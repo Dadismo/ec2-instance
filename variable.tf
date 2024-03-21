@@ -14,3 +14,7 @@ variable "region" {
 variable "profile_name" {
   default = "default"
 }
+
+variable "Name" {
+  default = "Terraform_server"
+}
